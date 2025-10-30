@@ -1,0 +1,28 @@
+ "name": "TetherUSD-AI",
+  "symbol": "USDT",
+  "description": "USDT is a revolutionary AI-powered cryptocurrency designed to seamlessly integrate artificial intelligence with your.",
+  "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/36457.png",
+  "external_url": "https://usdtmaven.website3.me/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/36457.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9AndYs8nWBSt4V1uhWGKgTfJLPGF23F36Aw4LA5VnkQR",
+        "share": 100
+      }
